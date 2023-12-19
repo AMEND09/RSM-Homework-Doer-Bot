@@ -1,0 +1,5 @@
+pix2tex
+sympy
+selenium
+latex2sympy2
+pillow
